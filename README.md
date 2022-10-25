@@ -15,5 +15,6 @@ For linux   : pip3 install pyautogui
 ## <br>Step 3 : Login to snapchat on brave browser
 ![This is a image](https://www.guidingtech.com/wp-content/uploads/how-to-use-snapchat-on-web-4.jpg)
 ## <br> Step 4 : Edit the username tag "<<USERNAME>>" as "username123"
-## <br> Step 5 : Open the browser tab and run the script !!!!
+## <br> Step 5 : Open the browser tab , run the script and minimize the python windows!!!!
+## <br> Strp 6 : The cursor will automatically start clicking and sending the snap to the given user......
 ### Follow me on Instagram [Instagram](https://www.instagram.com/utkarsh143un)
