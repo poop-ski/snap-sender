@@ -17,4 +17,4 @@ For linux   : pip3 install pyautogui
 ![This is a image](https://www.guidingtech.com/wp-content/uploads/how-to-use-snapchat-on-web-4.jpg)
 ## <br> Step 4 : Edit the username tag "<<USERNAME>>" as "username123"
 ## <br> Step 5 : Open the browser tab and run the script !!!!
-### Follow me on Instagram [Instagram](https://www.instagram.com/utkarsh143un).
+### Follow me on Instagram [Instagram](https://www.instagram.com/utkarsh143un)
