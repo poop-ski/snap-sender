@@ -10,3 +10,9 @@ This is a snap sender program written in python
 <br>Step 3 : Login to snapchat on brave browser
 <br>Step 4 : Edit the username tag "<<USERNAME>>" as "username123"
 <br>Step 5 : Open the browser tab and run the script !!!!
+
+  Installation commands are:
+```
+For windows : pip install pyautogui
+For linux   : pip3 install pyautogui 
+```
