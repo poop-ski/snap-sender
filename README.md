@@ -1,6 +1,7 @@
 # snap-sender
-This is a snapchat snap sender program written in python. 
+
 ![This is a image](https://cdn.iconscout.com/icon/free/png-128/snapchat-129-498414.png)
+<br>This is a snapchat snap sender program written in python. 
 # How to user
 ![This is a image](https://cdn.icon-icons.com/icons2/2552/PNG/96/brave_browser_logo_icon_153013.png)
 ## <br>Step 1 : Install Brave web browser [Brave Download](https://laptop-updates.brave.com/latest/winx64)
