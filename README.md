@@ -16,3 +16,5 @@ This is a snap sender program written in python
 For windows : pip install pyautogui
 For linux   : pip3 install pyautogui 
 ```
+Follow me on Instagram [Instagram](https://www.instagram.com/utkarsh143).
+
