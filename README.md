@@ -17,4 +17,4 @@ For linux   : pip3 install pyautogui
 ## <br> Step 4 : Edit the username tag "<<USERNAME>>" as "username123"
 ## <br> Step 5 : Open the browser tab , run the script and minimize the python windows!!!!
 ## <br> Strp 6 : The cursor will automatically start clicking and sending the snap to the given user......
-### Follow me on Instagram [Instagram](https://www.instagram.com/utkarsh143un)
+### Follow me on Instagram [Instagram](https://www.instagram.com/__el___professor__)
