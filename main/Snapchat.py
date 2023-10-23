@@ -9,6 +9,6 @@ while True:
     pyautogui.click(1095,777)
     pyautogui.sleep(0.2)
     pyautogui.click(1054,356)
-    pyautogui.write("<USERNAME>") #Edit this line as : pyautogui.write("utkarsh")
+    pyautogui.write("<username123>") #Edit this line as : pyautogui.write("utkarsh")
     pyautogui.click(1079,513)
     pyautogui.click(1134,805)
