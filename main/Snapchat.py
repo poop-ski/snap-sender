@@ -17,7 +17,7 @@ def type_text(text):
 # Main loop for your actions
 while True:
     # Click on specific positions
-    click_position(1012, 395)  # Adjusted the Y-coordinate for the snap button
+    click_position(1012, 700)  # Adjusted Y-coordinate for the snap button
     click_position(1095, 775)
     time.sleep(0.2)
     click_position(1054, 320)
