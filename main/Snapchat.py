@@ -18,13 +18,13 @@ def type_text(text):
 while True:
     # Click on specific positions
     click_position(1012, 700)  # Adjusted Y-coordinate for the snap button
-    click_position(1095, 775)
+    click_position(1095, 780)
     time.sleep(0.2)
-    click_position(1054, 320)
+    click_position(1054, 330)
 
     # Type the "utkarsh" text
     type_text("utkarsh")
 
     # Click on more positions
-    click_position(1079, 507)
+    click_position(1079, 513)
     click_position(1134, 800)
